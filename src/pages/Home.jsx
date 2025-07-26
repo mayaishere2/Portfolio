@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import cvFile from '../assets/Rahmani_Houda_ENG.pdf';
 
 export default function Home() {
   return (
@@ -13,10 +14,15 @@ export default function Home() {
       </p>
 
       <div style={{ marginTop: '1.2rem' }}>
-        <a className="cta" href="/cv.pdf" target="_blank" rel="noreferrer">
+        <a
+          className="cta"
+          href={cvFile}
+          download
+        >
           Download CV
         </a>
       </div>
+
 
       <h2 className="section-title">Quick Links</h2>
       <div className="badge-list" style={{ justifyContent: 'center' }}>
