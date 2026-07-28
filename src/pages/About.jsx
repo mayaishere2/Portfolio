@@ -4,30 +4,39 @@ export default function About() {
       <h1 className="section-title">About Me</h1>
 
       <p>
-        I am a fourth-year student at the National Higher School of Artificial Intelligence (ENSIA), with a strong academic foundation (Baccalauréat score: 18.29). My principal focus is building AI-powered applications that enhance decision-making and generalise robustly across datasets, supported by rigorous exploratory data analysis and evaluation.
+        I am a fifth-year Artificial Intelligence Engineering student at the National Higher School of Artificial Intelligence (ENSIA), with a strong academic foundation (Baccalauréat score: 18.29). My interests span machine learning, natural language processing, computer vision, data science, and decision support systems. I enjoy transforming research ideas into practical applications that solve real-world problems across diverse domains.
       </p>
 
       <p>
-        I am also keenly interested in applying AI to game development, where I aim to merge technical depth with creative problem-solving.
-      </p>
-      <p>
-        I am skilled with three languages: Arabic, French, and English, which allows me to communicate effectively in diverse environments. I am also developping my korean language skills to broaden my cultural and professional horizons.
-      </p>
-      <p>
-        I'm a well-established member in my school's club SkillnTell as a head of the AI department. I also have a previous experience of being the captain in the athletic team of my high school, showecasing I am familiar with teamwork, leadership and working with different personalities.
+        During my academic journey, I have worked on projects covering NLP, computer vision, time-series analysis, predictive modelling, mobile development, and industrial AI applications. My internship at Sonatrach further strengthened my ability to apply AI and software engineering techniques within an industrial environment, where I contributed to projects involving well log visualisation and LNG turbine maintenance.
       </p>
 
-    
+      <p>
+        Beyond traditional AI applications, I am particularly interested in the intersection of artificial intelligence and game development, where intelligent systems can create richer and more adaptive interactive experiences.
+      </p>
+
+      <p>
+        I am fluent in Arabic, French, and English, enabling me to communicate effectively in multicultural environments. I am also currently learning Korean to broaden my cultural and professional perspectives.
+      </p>
+
+      <p>
+        I currently serve as Head of the AI Department within ENSIA's SkillnTell club, where I organise technical activities and collaborate with students on AI-related initiatives. Earlier, I captained my high school's athletics team, experiences that strengthened my leadership, communication, and teamwork skills.
+      </p>
+
       <h2 className="section-title">Interests</h2>
+
       <p>
-       I love exploring the intersection of AI and creativity, with strong interests in machine learning, interactive applications, and gaming development. I enjoy building projects that challenge my thinking while learning from cutting-edge technologies. When I’m not coding, I’m either gaming, sketching new ideas, or diving into books about innovation and future tech.
+        I enjoy exploring the intersection of artificial intelligence and creativity, with particular interests in machine learning, natural language processing, computer vision, recommendation systems, industrial AI, and game AI. I enjoy transforming ideas into interactive applications while continuously learning new technologies and research directions. Outside of programming, I enjoy gaming, sketching ideas, and reading about emerging technologies.
       </p>
 
       <h2 className="section-title">Motivation</h2>
-      <p>
-        I am a flexible and fast learner with a deep passion for exploring the diverse subfields of Artificial Intelligence. For me, learning is not a milestone but a continuous journey of growth and curiosity. My motivation stems from a desire to solve real-world problems through innovation, data-driven thinking, and intelligent systems that make a meaningful impact. I thrive on challenges that push me to expand my expertise and refine my skills, and I approach every project with dedication, creativity, and a commitment to excellence.
 
-Beyond technical skills, I value collaboration and adaptability, believing that the best solutions emerge from both teamwork and relentless curiosity. My long-term vision is to contribute to cutting-edge AI solutions that empower individuals, businesses, and communities, while continuously evolving as a developer and problem solver.
+      <p>
+        I am a curious and adaptable learner who enjoys exploring the many fields of Artificial Intelligence. Whether working on industrial software, research-oriented machine learning projects, or interactive applications, I strive to build solutions that are both technically robust and genuinely useful. I value continuous learning, collaboration, and tackling unfamiliar challenges, and my long-term goal is to contribute to impactful AI systems that solve meaningful real-world problems.
+      </p>
+
+      <p>
+        I believe that the best solutions emerge from a combination of technical expertise, creativity, collaboration, and curiosity. Every project I undertake is an opportunity to improve my skills while creating technology that can make a positive impact on individuals, businesses, and communities.
       </p>
     </section>
   )
